@@ -1,7 +1,7 @@
 # Stephen_Curry_picture_ML_training
 Clustering and PCA training
 
-In this project I took the image of the GOAT basketball player, broke it into pieces and restored it using Python ML models. 
+For this project I took the image of the GOAT basketball player, broke it into pieces and restored it using Python ML models. 
 
 We can use this projrct for "Guess the celebrity" game. 
 
